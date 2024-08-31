@@ -12,5 +12,10 @@ return {
   { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.recipes.vscode" },
+  -- { import = "astrocommunity.recipes.neovide" },
+  { import = "astrocommunity.motion.nvim-surround" },
 }
